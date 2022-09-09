@@ -1,11 +1,14 @@
 ### haru02w's profile here👋
 
 ```c
-struct {
+typedef struct profile {
     char * name = "João Victor Millane";
     char * email = "haru02w@protonmail.com"
     char * status = "Doing Computer Science";
-} profile;
+    struct profile * next;
+} profile_t;
+
+//...
 ```
 
 ## **Skills**
