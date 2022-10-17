@@ -43,4 +43,4 @@ typedef struct profile {
 👔 [linkedin][linkedin]
 -->
 
-<h1>🇧🇷</h1>
+<h1>This is my shame as well as my pride: 🇧🇷🇧🇷</h1>
