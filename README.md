@@ -1,44 +1,30 @@
-### haru02w's profile here👋
+# haru02w (João Victor Millane)
 
-```c
-typedef struct profile {
-    char * name = "João Victor Millane";
-    char * email = "haru02w@protonmail.com"
-    char * status = "Doing Computer Science";
-    struct profile * next;
-} profile_t;
+I'm a Brazillian developer willing to work with critical software like IOT,
+Firmwares or even more complex systems. I end up remaking the same code
+two or more times to make sure it's all working perfectly,
+readable and with a good performance.
 
-//...
-```
+---
 
-## **Skills**
-![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### Experience
 
-## **GitHub Stats**
-[![iuricode](https://github-readme-stats.vercel.app/api?username=haru02w&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+| Studing for |                                               Skills                                                |
+| ----------- | :-------------------------------------------------------------------------------------------------: |
+| 3 years     |    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)    |
+| 2 years     | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| 3 years     | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  |
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=haru02w&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+#
 
-<!--[website]: https://haru02w.tk/ 
-[youtube]: https://www.youtube.com/user/haru02w/ -->
-## **Contacts**
-<a href="https://www.linkedin.com/in/joao-victor-millane-099886230/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:haru02w@protonmail.com">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
+### Stats
 
+[![haru02w's GitHub stats](https://github-readme-stats.vercel.app/api?username=haru02w&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 
-#### Rede Sociais!
+#
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
--->
+### Social Networks
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-millane)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/345257637215993877)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto://haru02w@protonmail.com)
