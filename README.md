@@ -9,11 +9,12 @@ readable and with a good performance.
 
 ### Experience
 
-| Studing for |                                               Skills                                                |
-| ----------- | :-------------------------------------------------------------------------------------------------: |
-| 3 years     |    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)    |
-| 2 years     | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| 3 years     | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  |
+| Studing for |                                                 Skills                                                  |
+| ----------- | :-----------------------------------------------------------------------------------------------------: |
+| 3 years     | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)           |
+| 3 months    | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| 2 years     | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)     |
+| 3 years     | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)      |
 
 #
 
